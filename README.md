@@ -33,16 +33,6 @@ The data is cleaned and aggregated to support efficient analysis and visualizati
 - Jupyter Notebook
 - PyArrow
 
-## Project Structure
-
-Hollywood-Data-Visualization/
-├── tsk1.ipynb # Data preprocessing and aggregation
-├── tsk2.ipynb # Time-series visualization
-├── tsk3.ipynb # Genre correlation analysis
-├── tsk4.ipynb # Director–actor collaboration network
-├── requirements.txt # Python dependencies
-└── README.md
-
 ## Setup
 
 1. Clone the repository:
